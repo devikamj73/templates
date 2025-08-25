@@ -1,0 +1,98 @@
+[
+  {
+    "data": {
+      "id": "root",
+      "label": "Root"
+    }
+  },
+  {
+    "data": {
+      "id": "ad",
+      "label": "ad"
+    }
+  },
+  {
+    "data": {
+      "id": "root->ad",
+      "source": "root",
+      "target": "ad",
+      "label": "",
+      "approval": "pending"
+    }
+  },
+  {
+    "data": {
+      "id": "ae",
+      "label": "ae"
+    }
+  },
+  {
+    "data": {
+      "id": "root->ae",
+      "source": "root",
+      "target": "ae",
+      "label": "",
+      "approval": "pending"
+    }
+  },
+  {
+    "data": {
+      "id": "ed",
+      "label": "ed"
+    }
+  },
+  {
+    "data": {
+      "id": "ad->ed",
+      "source": "ad",
+      "target": "ed",
+      "label": "",
+      "approval": "pending"
+    }
+  },
+  {
+    "data": {
+      "id": "yg",
+      "label": "yg"
+    }
+  },
+  {
+    "data": {
+      "id": "ae->yg",
+      "source": "ae",
+      "target": "yg",
+      "label": "",
+      "approval": "pending"
+    }
+  },
+  {
+    "data": {
+      "id": "gh",
+      "label": "gh"
+    }
+  },
+  {
+    "data": {
+      "id": "ae->gh",
+      "source": "ae",
+      "target": "gh",
+      "label": "",
+      "approval": "approved"
+    }
+  },
+  {
+    "data": {
+      "id": "ef",
+      "label": "ef"
+    }
+  },
+  {
+    "data": {
+      "id": "ad->ef",
+      "source": "ad",
+      "target": "ef",
+      "label": "",
+      "approval": "pending"
+    }
+  }
+]
