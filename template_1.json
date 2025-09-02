@@ -1,0 +1,134 @@
+[
+  {
+    "data": {
+      "id": "root",
+      "label": "Root"
+    }
+  },
+  {
+    "data": {
+      "id": "x",
+      "label": "x",
+      "status": "rejected",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "informa": "",
+      "informat": "",
+      "image": null
+    }
+  },
+  {
+    "data": {
+      "id": "root->x",
+      "source": "root",
+      "target": "x",
+      "approval": "rejected"
+    }
+  },
+  {
+    "data": {
+      "id": "y",
+      "label": "y",
+      "status": "rejected",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "informa": "",
+      "informat": "",
+      "image": null
+    }
+  },
+  {
+    "data": {
+      "id": "root->y",
+      "source": "root",
+      "target": "y",
+      "approval": "rejected"
+    }
+  },
+  {
+    "data": {
+      "id": "z",
+      "label": "z",
+      "status": "rejected",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "informa": "",
+      "informat": "",
+      "image": null
+    }
+  },
+  {
+    "data": {
+      "id": "x->z",
+      "source": "x",
+      "target": "z",
+      "approval": "rejected"
+    }
+  },
+  {
+    "data": {
+      "id": "m",
+      "label": "m",
+      "status": "rejected",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "informa": "",
+      "informat": "",
+      "image": null
+    }
+  },
+  {
+    "data": {
+      "id": "y->m",
+      "source": "y",
+      "target": "m",
+      "approval": "rejected"
+    }
+  },
+  {
+    "data": {
+      "id": "n",
+      "label": "n",
+      "status": "approved",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "informa": "",
+      "informat": "",
+      "image": null
+    }
+  },
+  {
+    "data": {
+      "id": "y->n",
+      "source": "y",
+      "target": "n",
+      "approval": "approved"
+    }
+  },
+  {
+    "data": {
+      "id": "o",
+      "label": "o",
+      "status": "rejected",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "informa": "",
+      "informat": "",
+      "image": null
+    }
+  },
+  {
+    "data": {
+      "id": "x->o",
+      "source": "x",
+      "target": "o",
+      "approval": "rejected"
+    }
+  }
+]
