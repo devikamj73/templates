@@ -1,0 +1,138 @@
+[
+  {
+    "data": {
+      "status": "pending",
+      "AMT": "not ok",
+      "GTO": "not ok",
+      "ARCH": "not ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "root",
+      "label": "Root",
+      "computed_status": "not ok"
+    }
+  },
+  {
+    "data": {
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "5tg",
+      "label": "3dc",
+      "image": null,
+      "computed_status": "not ok"
+    }
+  },
+  {
+    "data": {
+      "id": "root->5tg",
+      "source": "root",
+      "target": "5tg",
+      "approval": "rejected"
+    }
+  },
+  {
+    "data": {
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "666666g",
+      "label": "666666g",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "id": "5tg->666666g",
+      "source": "5tg",
+      "target": "666666g"
+    }
+  },
+  {
+    "data": {
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "8jyhg",
+      "label": "8jyhg",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "id": "5tg->8jyhg",
+      "source": "5tg",
+      "target": "8jyhg"
+    }
+  },
+  {
+    "data": {
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "not ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "333333333rf",
+      "label": "333333333rf",
+      "image": null,
+      "computed_status": "not ok"
+    }
+  },
+  {
+    "data": {
+      "id": "5tg->333333333rf",
+      "source": "5tg",
+      "target": "333333333rf"
+    }
+  },
+  {
+    "data": {
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "not ok",
+      "ARCH": "ok",
+      "info": "f33",
+      "infor": "3e3e",
+      "inform": "3e3e",
+      "complete": [
+        [
+          "Option C",
+          "Option A"
+        ]
+      ],
+      "id": "g",
+      "label": "g",
+      "image": null,
+      "computed_status": "not ok"
+    }
+  },
+  {
+    "data": {
+      "id": "root->g",
+      "source": "root",
+      "target": "g"
+    }
+  }
+]
