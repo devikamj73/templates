@@ -1,0 +1,308 @@
+[
+  {
+    "data": {
+      "status": "ok",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "project_x",
+      "label": "Project X",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "status": "ok",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "b_minus",
+      "label": "B -",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "status": "ok",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "b_plus",
+      "label": "B +",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "status": "ok",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "main_front",
+      "label": "Main Front",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "status": "ok",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "node_supply",
+      "label": "Node Supply",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "status": "ok",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "front",
+      "label": "Front",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "status": "ok",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "Common CAD Module for FSS-Air & FSS-LEAF",
+      "infor": "FAA10,FAA11,FSS-AIR,FSS-LEAF",
+      "inform": "Nilsson Henrik",
+      "complete": [
+        ["APM-P21", "Balder Interface-Port F"],
+        ["APM-P22", "Balder Interface-Port D"],
+        ["APM-P25", "Balder Interface-Port B"]
+      ],
+      "id": "hv",
+      "label": "HV",
+      "image": "C:/Users/A510568/OneDrive - Volvo Group/Anumodh/Picture1.png",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "status": "ok",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "wb",
+      "label": "WB",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "status": "ok",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "variant_a",
+      "label": "Variant A",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "status": "ok",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "variant_b",
+      "label": "Variant B",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "status": "ok",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "variant_c",
+      "label": "Variant C",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "status": "ok",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "cm_1",
+      "label": "CM 1",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "status": "ok",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "cm_2",
+      "label": "CM 2",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "status": "ok",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "cm_3",
+      "label": "CM 3",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "id": "project_x->b_minus",
+      "source": "project_x",
+      "target": "b_minus"
+    }
+  },
+  {
+    "data": {
+      "id": "project_x->b_plus",
+      "source": "project_x",
+      "target": "b_plus"
+    }
+  },
+  {
+    "data": {
+      "id": "project_x->main_front",
+      "source": "project_x",
+      "target": "main_front"
+    }
+  },
+  {
+    "data": {
+      "id": "project_x->node_supply",
+      "source": "project_x",
+      "target": "node_supply"
+    }
+  },
+  {
+    "data": {
+      "id": "project_x->front",
+      "source": "project_x",
+      "target": "front"
+    }
+  },
+  {
+    "data": {
+      "id": "project_x->hv",
+      "source": "project_x",
+      "target": "hv"
+    }
+  },
+  {
+    "data": {
+      "id": "node_supply->wb",
+      "source": "node_supply",
+      "target": "wb"
+    }
+  },
+  {
+    "data": {
+      "id": "wb->variant_a",
+      "source": "wb",
+      "target": "variant_a"
+    }
+  },
+  {
+    "data": {
+      "id": "wb->variant_b",
+      "source": "wb",
+      "target": "variant_b"
+    }
+  },
+  {
+    "data": {
+      "id": "wb->variant_c",
+      "source": "wb",
+      "target": "variant_c"
+    }
+  },
+  {
+    "data": {
+      "id": "variant_a->cm_1",
+      "source": "variant_a",
+      "target": "cm_1"
+    }
+  },
+  {
+    "data": {
+      "id": "variant_b->cm_2",
+      "source": "variant_b",
+      "target": "cm_2"
+    }
+  },
+  {
+    "data": {
+      "id": "variant_c->cm_3",
+      "source": "variant_c",
+      "target": "cm_3"
+    }
+  }
+]
