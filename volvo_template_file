@@ -1,0 +1,322 @@
+[
+  {
+    "data": {
+      "node_name": "Project X",
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "project_x",
+      "label": "Project X",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "node_name": "B -",
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "b_minus",
+      "label": "B -",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "node_name": "Node Supply",
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "node_supply",
+      "label": "Node Supply",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "node_name": "WB",
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "wb",
+      "label": "WB",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "node_name": "Variant B",
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "variant_b",
+      "label": "Variant B",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "node_name": "CM 2",
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "cm_2",
+      "label": "CM 2",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "node_name": "Variant A",
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "variant_a",
+      "label": "Variant A",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "node_name": "CM 1",
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "cm_1",
+      "label": "CM 1",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "node_name": "Variant C",
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "variant_c",
+      "label": "Variant C",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "node_name": "CM 3",
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "cm_3",
+      "label": "CM 3",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "node_name": "Front",
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "front",
+      "label": "Front",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "node_name": "HV",
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "Common CAD Module for FSS-Air & FSS-LEAF",
+      "infor": "FAA10,FAA11,FSS-AIR,FSS-LEAF",
+      "inform": "Nilsson Henrik",
+      "complete": [
+        ["APM-P21", "Balder Interface-Port F"],
+        ["APM-P22", "Balder Interface-Port D"],
+        ["APM-P25", "Balder Interface-Port B"]
+      ],
+      "id": "hv",
+      "label": "HV",
+      "image": "C:/Users/A510568/OneDrive - Volvo Group/Anumodh/Picture1.png",
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "node_name": "B +",
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "b_plus",
+      "label": "B +",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "node_name": "Main Front",
+      "status": "pending",
+      "AMT": "ok",
+      "GTO": "ok",
+      "ARCH": "ok",
+      "info": "",
+      "infor": "",
+      "inform": "",
+      "complete": [],
+      "id": "main_front",
+      "label": "Main Front",
+      "image": null,
+      "computed_status": "ok"
+    }
+  },
+
+  // --- LINKS (parent-child relationships) ---
+  {
+    "data": {
+      "id": "project_x->b_minus",
+      "source": "project_x",
+      "target": "b_minus"
+    }
+  },
+  {
+    "data": {
+      "id": "project_x->node_supply",
+      "source": "project_x",
+      "target": "node_supply"
+    }
+  },
+  {
+    "data": {
+      "id": "project_x->hv",
+      "source": "project_x",
+      "target": "hv"
+    }
+  },
+  {
+    "data": {
+      "id": "project_x->b_plus",
+      "source": "project_x",
+      "target": "b_plus"
+    }
+  },
+  {
+    "data": {
+      "id": "project_x->main_front",
+      "source": "project_x",
+      "target": "main_front"
+    }
+  },
+  {
+    "data": {
+      "id": "node_supply->wb",
+      "source": "node_supply",
+      "target": "wb"
+    }
+  },
+  {
+    "data": {
+      "id": "node_supply->front",
+      "source": "node_supply",
+      "target": "front"
+    }
+  },
+  {
+    "data": {
+      "id": "wb->variant_b",
+      "source": "wb",
+      "target": "variant_b"
+    }
+  },
+  {
+    "data": {
+      "id": "wb->variant_a",
+      "source": "wb",
+      "target": "variant_a"
+    }
+  },
+  {
+    "data": {
+      "id": "wb->variant_c",
+      "source": "wb",
+      "target": "variant_c"
+    }
+  },
+  {
+    "data": {
+      "id": "variant_b->cm_2",
+      "source": "variant_b",
+      "target": "cm_2"
+    }
+  },
