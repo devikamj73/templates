@@ -1,0 +1,335 @@
+[
+    {
+        "data": {
+            "node_name": "Project X",
+            "status": "pending",
+            "AMT": "ok",
+            "GTO": "ok",
+            "ARCH": "ok",
+            "info": "",
+            "infor": "",
+            "inform": "",
+            "complete": [["", ""]],
+            "id": "root",
+            "label": "",
+            "image": "",
+            "computed_status": "ok"
+        }
+    },
+    {
+        "data": {
+            "node_name": "B -",
+            "status": "pending",
+            "AMT": "ok",
+            "GTO": "ok",
+            "ARCH": "ok",
+            "info": "",
+            "infor": "",
+            "inform": "",
+            "complete": [["", ""]],
+            "id": "b_minus",
+            "label": "",
+            "image": "",
+            "computed_status": "ok"
+        }
+    },
+    {
+        "data": {
+            "id": "root->b_minus",
+            "source": "root",
+            "target": "b_minus"
+        }
+    },
+    {
+        "data": {
+            "node_name": "Node Supply",
+            "status": "pending",
+            "AMT": "ok",
+            "GTO": "ok",
+            "ARCH": "ok",
+            "info": "",
+            "infor": "",
+            "inform": "",
+            "complete": [["", ""]],
+            "id": "node_supply",
+            "label": "",
+            "image": "",
+            "computed_status": "ok"
+        }
+    },
+    {
+        "data": {
+            "id": "root->node_supply",
+            "source": "root",
+            "target": "node_supply"
+        }
+    },
+    {
+        "data": {
+            "node_name": "WB",
+            "status": "pending",
+            "AMT": "ok",
+            "GTO": "ok",
+            "ARCH": "ok",
+            "info": "",
+            "infor": "",
+            "inform": "",
+            "complete": [["", ""]],
+            "id": "wb",
+            "label": "",
+            "image": "",
+            "computed_status": "ok"
+        }
+    },
+    {
+        "data": {
+            "id": "node_supply->wb",
+            "source": "node_supply",
+            "target": "wb"
+        }
+    },
+    {
+        "data": {
+            "node_name": "Variant A",
+            "status": "pending",
+            "AMT": "ok",
+            "GTO": "ok",
+            "ARCH": "ok",
+            "info": "",
+            "infor": "",
+            "inform": "",
+            "complete": [["", ""]],
+            "id": "variant_a",
+            "label": "",
+            "image": "",
+            "computed_status": "ok"
+        }
+    },
+    {
+        "data": {
+            "id": "wb->variant_a",
+            "source": "wb",
+            "target": "variant_a"
+        }
+    },
+    {
+        "data": {
+            "node_name": "CM 1",
+            "status": "pending",
+            "AMT": "ok",
+            "GTO": "ok",
+            "ARCH": "ok",
+            "info": "",
+            "infor": "",
+            "inform": "",
+            "complete": [["", ""]],
+            "id": "cm1",
+            "label": "",
+            "image": "",
+            "computed_status": "ok"
+        }
+    },
+    {
+        "data": {
+            "id": "variant_a->cm1",
+            "source": "variant_a",
+            "target": "cm1"
+        }
+    },
+    {
+        "data": {
+            "node_name": "Variant B",
+            "status": "pending",
+            "AMT": "ok",
+            "GTO": "ok",
+            "ARCH": "ok",
+            "info": "",
+            "infor": "",
+            "inform": "",
+            "complete": [["", ""]],
+            "id": "variant_b",
+            "label": "",
+            "image": "",
+            "computed_status": "ok"
+        }
+    },
+    {
+        "data": {
+            "id": "wb->variant_b",
+            "source": "wb",
+            "target": "variant_b"
+        }
+    },
+    {
+        "data": {
+            "node_name": "CM 2",
+            "status": "pending",
+            "AMT": "ok",
+            "GTO": "ok",
+            "ARCH": "ok",
+            "info": "",
+            "infor": "",
+            "inform": "",
+            "complete": [["", ""]],
+            "id": "cm2",
+            "label": "",
+            "image": "",
+            "computed_status": "ok"
+        }
+    },
+    {
+        "data": {
+            "id": "variant_b->cm2",
+            "source": "variant_b",
+            "target": "cm2"
+        }
+    },
+    {
+        "data": {
+            "node_name": "Variant C",
+            "status": "pending",
+            "AMT": "ok",
+            "GTO": "ok",
+            "ARCH": "ok",
+            "info": "",
+            "infor": "",
+            "inform": "",
+            "complete": [["", ""]],
+            "id": "variant_c",
+            "label": "",
+            "image": "",
+            "computed_status": "ok"
+        }
+    },
+    {
+        "data": {
+            "id": "wb->variant_c",
+            "source": "wb",
+            "target": "variant_c"
+        }
+    },
+    {
+        "data": {
+            "node_name": "CM 3",
+            "status": "pending",
+            "AMT": "ok",
+            "GTO": "ok",
+            "ARCH": "ok",
+            "info": "",
+            "infor": "",
+            "inform": "",
+            "complete": [["", ""]],
+            "id": "cm3",
+            "label": "",
+            "image": "",
+            "computed_status": "ok"
+        }
+    },
+    {
+        "data": {
+            "id": "variant_c->cm3",
+            "source": "variant_c",
+            "target": "cm3"
+        }
+    },
+    {
+        "data": {
+            "node_name": "Front",
+            "status": "pending",
+            "AMT": "ok",
+            "GTO": "ok",
+            "ARCH": "ok",
+            "info": "",
+            "infor": "",
+            "inform": "",
+            "complete": [["", ""]],
+            "id": "front",
+            "label": "",
+            "image": "",
+            "computed_status": "ok"
+        }
+    },
+    {
+        "data": {
+            "id": "node_supply->front",
+            "source": "node_supply",
+            "target": "front"
+        }
+    },
+    {
+        "data": {
+            "node_name": "HV",
+            "status": "pending",
+            "AMT": "ok",
+            "GTO": "ok",
+            "ARCH": "ok",
+            "info": "Nilsson Henrik",
+            "infor": "FAA10,FAA11,FSS-AIR,FSS-LEAF",
+            "inform": "Common CAD Module for FSS-Air & FSS-LEAF",
+            "complete": [
+                ["APM-P21", "Balder Interface-Port F"],
+                ["APM-P22", "Balder Interface-Port D"],
+                ["APM-P25", "Balder Interface-Port B"]
+            ],
+            "id": "hv",
+            "label": "24593041 / 24593042",
+            "image": "C:/Users/A510568/OneDrive - Volvo Group/Anumodh/Picture1.png",
+            "computed_status": "ok"
+        }
+    },
+    {
+        "data": {
+            "id": "root->hv",
+            "source": "root",
+            "target": "hv"
+        }
+    },
+    {
+        "data": {
+            "node_name": "B +",
+            "status": "pending",
+            "AMT": "ok",
+            "GTO": "ok",
+            "ARCH": "ok",
+            "info": "",
+            "infor": "",
+            "inform": "",
+            "complete": [["", ""]],
+            "id": "b_plus",
+            "label": "",
+            "image": "",
+            "computed_status": "ok"
+        }
+    },
+    {
+        "data": {
+            "id": "root->b_plus",
+            "source": "root",
+            "target": "b_plus"
+        }
+    },
+    {
+        "data": {
+            "node_name": "Main Front",
+            "status": "pending",
+            "AMT": "ok",
+            "GTO": "ok",
+            "ARCH": "ok",
+            "info": "",
+            "infor": "",
+            "inform": "",
+            "complete": [["", ""]],
+            "id": "main_front",
+            "label": "",
+            "image": "",
+            "computed_status": "ok"
+        }
+    },
+    {
+        "data": {
+            "id": "root->main_front",
+            "source": "root",
+            "target": "main_front"
+        }
+    }
+]
